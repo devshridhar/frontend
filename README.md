@@ -5,6 +5,10 @@ This is the frontend implementation of the user authentication module. It suppor
 
 ---
 
+## Demo
+
+https://auth.fullstackdev.in/
+
 ## Features
 
 - **Signup and Login Forms**: Users can register and log in using secure forms with validation.
